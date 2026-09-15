@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+pandas
+torch
+pytest
+python-docx
+python-pptx
+Pillow
